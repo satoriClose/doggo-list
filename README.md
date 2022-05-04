@@ -1,6 +1,12 @@
-# doggo-list
+# Purpose
 
-Practice React
+practice React
+
+# Usage
+
+```
+npm start
+```
 
 # Ref
 
